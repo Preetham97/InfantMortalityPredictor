@@ -1,7 +1,7 @@
 ## Infant Mortality Data Prediction and Analysis
 
 ### Motivation
-Done as part of the class project for [Big Data Analytics (Fall '17)](http://www3.cs.stonybrook.edu/~has/CSE545/) course taught by Prof. Andrew Schwartz at Stony Brook University.
+Done as part of the class project for [Big Data Analytics](http://www3.cs.stonybrook.edu/~has/CSE545/) course taught by Prof. Andrew Schwartz at Stony Brook University.
 
 ### Introduction
 
